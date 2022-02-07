@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    color: cornsilk;
+}
+div{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    padding: auto;
+}
+h1{
+    font-size: 3rem;
+}
+p{
+    font-size: 2rem;
+}
+button{
+    margin-top: 5%;
+}
+footer{
+    margin-top: 10%;
+}
